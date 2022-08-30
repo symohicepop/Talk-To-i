@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549179979014",
+    "project_id": "talk-to-i",
+    "storage_bucket": "talk-to-i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549179979014:android:ea5b47b798f1df00ed9a87",
+        "android_client_info": {
+          "package_name": "com.example.talktoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549179979014-cknvmcnjrrfu12pshmj9i8qjqqd1ppmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVi_j3Gnj47iDjXFvWg_P_IJdBI8ZEAww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549179979014-cknvmcnjrrfu12pshmj9i8qjqqd1ppmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
